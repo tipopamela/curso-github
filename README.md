@@ -1,3 +1,3 @@
-# Bem vinde ao curso de github
+# Curso de GitHub
 
 TESTE
